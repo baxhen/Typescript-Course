@@ -10,33 +10,27 @@
 
 <br>
 
-# 💻  Projetos
+# 💻 Projetos
 
-## Components
+## Fetchjson
 
 ### Description
 
-#### . 
+#### make a network request to fetch some JSON and print the result, basic sintax of typescript, interfaces and specifying arguments types.
 
 <p align="center">
   <img alt="components" src=".github/" width="50%">  
 </p>
 
-
-## 🚀  Tecnologias
+## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [Node.js](https://nodejs.org/en/)
 - [TypeScript](https://www.typescriptlang.org/)
 
-
-
-
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
 ---
-
-

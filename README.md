@@ -18,6 +18,24 @@
 
 #### make a network request to fetch some JSON and print the result, basic sintax of typescript, interfaces and specifying arguments types.
 
+## Features
+
+### Description
+
+#### basic uses of types in objects, arrays, tuples, functions and classes.
+
+## Maps
+
+### Description
+
+#### Make resusable code with interfaces and classes and hanle errors more easily, protect the access from global variables or outside libraries.
+
+## Sort
+
+### Description
+
+#### Make resusable code with interfaces and classes that sort numbers array, string and linkedList.
+
 <p align="center">
   <img alt="components" src=".github/" width="50%">  
 </p>

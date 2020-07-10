@@ -22,7 +22,7 @@
 
 ### Description
 
-#### basic uses of types in objects, arrays, tuples, functions and classes.
+#### basic uses of types in objects, arrays, tuples, functions, Generics classes and functions.
 
 ## Maps
 
@@ -34,11 +34,13 @@
 
 ### Description
 
-#### Make resusable code with interfaces and classes that sort numbers array, string and linkedList.
+#### Make resusable code with interfaces and classes that sort numbers array, string and linkedList. Abstract Classes vs Interfaces.
 
-<p align="center">
-  <img alt="components" src=".github/" width="50%">  
-</p>
+## Stats
+
+### Description
+
+#### Use of enum, type, Generics class, Inheritance vs Composition, "favor composition over inheritance".
 
 ## 🚀 Tecnologias
 

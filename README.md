@@ -42,6 +42,12 @@
 
 #### Use of enum, type, Generics class, Inheritance vs Composition, "favor composition over inheritance".
 
+## Web
+
+### Description
+
+#### Make a web Framework Figuring out when inheritance is better composition, development of some functins of Backbone.js framework and Marionette.js framework .
+
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:

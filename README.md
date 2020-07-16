@@ -46,7 +46,13 @@
 
 ### Description
 
-#### Make a web Framework Figuring out when inheritance is better composition, development of some functins of Backbone.js framework and Marionette.js framework .
+#### Make a web Framework Figuring out when inheritance is better than composition, development of some functions of Backbone.js framework and Marionette.js framework .
+
+## Simple Server
+
+### Description
+
+#### Integrate Express with Typescript,and any other js library, use of decorators.
 
 ## 🚀 Tecnologias
 

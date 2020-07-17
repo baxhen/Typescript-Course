@@ -1,4 +1,3 @@
-import { View } from './View';
 import { CollectionView } from './CollectionView';
 import { User, UserProps } from '../models/User';
 import { UserShow } from './UserShow';

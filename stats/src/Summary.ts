@@ -7,11 +7,11 @@ export interface Analyzer {
 }
 
 export interface OutputTarget {
-  print(resport: string): void;
+  print(report: string): void;
 }
 
 export class Summary {
-  static winsAnalyisWithHtmlReport(team: string, reportName: string) {
+  static winsAnalysisWithHtmlReport(team: string, reportName: string) {
     return new Summary(new WinsAnalysis(team), new HtmlReport(reportName));
   }
   constructor(public analyzer: Analyzer, public outputTarget: OutputTarget) {}

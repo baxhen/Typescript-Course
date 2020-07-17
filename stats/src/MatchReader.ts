@@ -1,4 +1,4 @@
-import { dateSringToDate } from './utils';
+import { dateStringToDate } from './utils';
 import { MatchResult } from './MatchResult';
 import { MatchData } from './MatchData';
 import { CsvFileReader } from './CsvFileReader';
@@ -20,7 +20,7 @@ export class MatchReader {
     this.matches = this.reader.data.map(
       (row: string[]): MatchData => {
         return [
-          dateSringToDate(row[0]),
+          dateStringToDate(row[0]),
           row[1],
           row[2],
           parseInt(row[3]),

@@ -17,3 +17,9 @@ const carStats = {
   horsepower: 400,
   weight: 3354,
 };
+
+type weightStatus = 'anorexico' | 'magro' | 'normal' | 'sobrepeso' | 'obeso';
+
+const printStatus = (name: weightStatus): weightStatus => {
+  return name;
+};
